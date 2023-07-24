@@ -15,6 +15,6 @@ In this repo, i will create a website using only HTML using a ".fig" files. (cre
 
 ## Prototype
 
+![97c8976d2ff5ff1871d7a0815b72773379df6acb](https://github.com/soOwasTaken/holbertonschool-web-development/assets/113637950/bb8c20a6-90e2-48a7-91c1-94a7f788db45)
 
-![alt text]([http://url/to/img.png](https://i.imgur.com/ddS7eIE.jpg)https://i.imgur.com/ddS7eIE.jpg)
 
